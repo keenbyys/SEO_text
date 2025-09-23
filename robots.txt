@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /SEO_text
 Disallow:
 
 Sitemap: https://keenbyys.github.io/SEO-text/sitemap.xml
