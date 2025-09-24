@@ -1,3 +1,5 @@
 User-agent: *
-Allow: /*
+Allow: /index.html
+Allow: /rainwater_harvesting_systems.html
+Allow: /energy_carriers.html
 Sitemap: https://keenbyys.github.io/SEO-text/sitemap.xml
